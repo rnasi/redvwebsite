@@ -1,0 +1,15 @@
+title: Product Screenshots
+screenshots:
+  -
+    big: 'b-black-pearl.png'
+    thumb: 'black-pearl.png'
+    caption: 'The Black Pearl'
+  -
+    big: 'b-fritz.png'
+    thumb: 'fritz.png'
+    caption: 'Fritz'
+  -
+    big: 'b-magpie.png'
+    thumb: 'magpie.png'
+    caption: 'MagPIE'
+

@@ -1,0 +1,22 @@
+-
+  name: tbp
+  title: About Us
+  body: We are Airmen working for Airmen to make their lives easier and their mission impact more powerful. We do this by meeting with users in our Group on a daily basis to create new software uniquely tailored to our users' mission.
+  image: 'images/red-v-logo.png'
+-
+  name: tbp
+  title: The Black Pearl
+  body: Used daily throughout DGS-1, our first app is a community-maintained portal that allows immediate, workstation-agnostic mission setup and resource sharing.
+  image: 'images/black-pearl-logo.png'
+  link: https://blackpearl.dev.geointservices.io/
+-
+  name: fritz
+  title: Fritz
+  body: Although it has since been subsumed by Unicorn, Fritz was a JPEG renaming tool that slashed a tedious, 40-minute product conversion process to a few clicks and a couple minutes.
+  image: 'images/fritz-logo.png'
+-
+  name: magpie
+  title: MagPIE
+  body: Our most ambitious app to date, MagPIE magnifies Post-Ingest Exploitation capabilities through workflow consolidation and powerful predictave metrics.
+  image: 'images/magpie-logo.png'
+  link: https://magpie.dev.geointservices.io
