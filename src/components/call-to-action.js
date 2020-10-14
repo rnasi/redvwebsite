@@ -9,7 +9,7 @@ export default () => (
       <div className="two columns header-col">
         {/*<h1><FontAwesomeIcon icon={faUpload} /><span>Get Hosting.</span></h1>*/}
       </div>
-      <div className="seven columns">
+      <div className="seven columns action-description">
         <h2><a href={ content.title.url }>{ content.title.text }</a></h2>
         <p
           dangerouslySetInnerHTML={{ __html: content.body }}

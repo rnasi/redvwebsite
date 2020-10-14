@@ -18,14 +18,12 @@ module.exports = {
       `hero`,
       `features`,
       `screenshots`,
-      `testimonials`,
       `call-to-action`
     ],
 
     /* Configure the navigation menu */
     menuItems: [
       {path: 'features', label: 'Our Apps'},
-      {path: 'screenshots', label: 'Screenshots'},
       {path: 'call-to-action', label: 'Contact Us'},
     ],
 

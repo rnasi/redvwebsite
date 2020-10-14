@@ -274,6 +274,11 @@ ul.nav li.current button { color: #fff; }
 }
 .fluid-video-wrapper { margin-top: 18px; }
 
+.feature-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 /*----------------------------------------------*/
 /*	e. Pricing Section
@@ -487,6 +492,8 @@ ul.features li:nth-child(even) { }
   color: #EBEEEE;
 }
 #call-to-action .action { margin-top: 18px; }
+#call-to-action .action-description p { color: #8B9DAD; }
+#call-to-action .action-description b { color: #CACCC9; font-size: 17px; }
 #call-to-action .action .button { text-align: center; }
 #call-to-action h2 {
    font: bold 28px/36px 'Montserrat', sans-serif;
