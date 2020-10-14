@@ -1,10 +1,9 @@
 import React from "react"
-import { Helmet } from "react-helmet"
+import {Helmet} from "react-helmet"
 
-import { useSiteMetadata } from "../hooks/use-site-metadata"
+import {useSiteMetadata} from "../hooks/use-site-metadata"
 
 import Header from "./header"
-import Footer from "./footer"
 
 import "../styles/default.css"
 import "../styles/layout.css"
@@ -15,8 +14,9 @@ import "../styles/prettyPhoto.css"
 import 'typeface-open-sans';
 import 'typeface-montserrat';
 
-import { config } from '@fortawesome/fontawesome-svg-core'
+import {config} from '@fortawesome/fontawesome-svg-core'
 import '@fortawesome/fontawesome-svg-core/styles.css'
+
 config.autoAddCss = false
 
 export default function Layout ({ children }){
@@ -41,7 +41,6 @@ export default function Layout ({ children }){
     {children}
   </main>
 
-  {/*<Footer />*/}
   </>
   )
 }

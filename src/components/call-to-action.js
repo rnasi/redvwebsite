@@ -1,7 +1,5 @@
 import React from "react"
 import content from "../../public/images/content/call-to-action.yaml"
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faUpload } from '@fortawesome/free-solid-svg-icons'
 
 export default () => (
   <section id="call-to-action">

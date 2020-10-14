@@ -7,11 +7,11 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `RedV`,
+    title: `Red5`,
     author: {
-      name: `RedV`,
+      name: `Red5`,
     },
-    description: `Website for RedV, DGS-1's local software development team`,
+    description: `Website for Red5, DGS-1's local software development team`,
 
     /* Choose and arrange the sections to be displayed on the landing page */
     sections: [
@@ -32,9 +32,6 @@ module.exports = {
       { service: `Facebook`,
         url : `https://www.facebook.com/497ISRG`,
         fa: `facebook` },
-      // { service: `Twitter`,
-      //   url : `https://twitter.com/styleshout`,
-      //   fa: `twitter` },
       { service: `GitLab`,
         url : `https://gitlab.devops.geointservices.io/dgs1sdt/`,
         fa: `gitlab` },
@@ -44,23 +41,6 @@ module.exports = {
     favicon: `favicon.png`,
     logo: `/images/logo.png`,
 
-    /* Logo and text to show in footer */
-    footer: {
-      logo: ``,
-      text: ``,
-    },
-
-    /* Address and contact info to show in footer */
-    address: {
-      line1: ``,
-      line2: ``,
-      line3: ``,
-    },
-    contacts: [
-      { text: ``, url: `` },
-      { text: ``, url: ``},
-      { text: ``, url: ``},
-    ],
   },
   plugins: [ `gatsby-plugin-anchor-links`, `gatsby-plugin-smoothscroll`, `react-scrollspy` ],
 }

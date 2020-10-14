@@ -1,5 +1,4 @@
 import React from "react"
-import { AnchorLink } from "gatsby-plugin-anchor-links"
 import content from "../../public/images/content/hero.yaml"
 
 export default () => (
